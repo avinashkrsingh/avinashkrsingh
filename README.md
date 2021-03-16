@@ -6,8 +6,8 @@
 </a>
 <img align='right' src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200">
 
- [![Linkedin Badge](https://img.shields.io/badge/-ashishkamat2791-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-kumar-singh-b3003029/)](https://www.linkedin.com/in/ashish-k-80b1674a/) 
-[![Gmail Badge](https://img.shields.io/badge/-ashishkamat91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avinashkrsingh9@gmail.com)](avinashkrsingh9@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-avinashkrsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-kumar-singh-b3003029/)](https://www.linkedin.com/in/avinash-kumar-singh-b3003029/) 
+[![Gmail Badge](https://img.shields.io/badge/-avinashkrsingh9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avinashkrsingh9@gmail.com)](avinashkrsingh9@gmail.com)
 #[![Docker Badge](https://img.shields.io/badge/Docker-Docker%20Hub-orange)](https://hub.docker.com/u/ashishkamat2791)
 
 ---
@@ -26,7 +26,7 @@ I am  Avinash Singh, a Senior Automation/DevOps Engineer passionate about Iac,Pa
 - ⚡ Fun fact: I talk less. I am a fun loving person with great humor and can be good mentor.
 
 ```
-def 8YearsOfIT(self):
+def 6YearsOfIT(self):
     year = 8
     prevWorkDone = 0
     while(year<7):
@@ -38,4 +38,4 @@ def 8YearsOfIT(self):
         prevWorkDone = workDone 
     print("Happy Automating!")
     
-self.8YearsOfIT()
+self.6YearsOfIT()
